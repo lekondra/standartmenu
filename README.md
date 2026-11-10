@@ -1,1 +1,1 @@
-# normalmenu
+# standartmenu
